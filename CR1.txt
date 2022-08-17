@@ -1,2 +1,6 @@
+ git checkout CR1.txt
+ git checkout CR1.txt
+ git checkout CR1.txt
+ git checkout CR1.txt
 https://git-scm.com/
 https://git-scm.com/
