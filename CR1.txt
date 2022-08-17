@@ -28,3 +28,4 @@ Date:   Wed Aug 17 15:34:39 2022 +0530
 
 pongi@LAPTOP-4PEOJNJL MINGW64 /e/Practice GIT (master)
 $ git revert HEAD
+git blame command
