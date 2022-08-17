@@ -5,6 +5,15 @@ https://git-scm.com/
 v61672d20ae5c18f0aeed0117a2
 Author: Gugiri@gmail.com>
 Date:   Wed Aug 17 15:34:39 2022 +0530
+6775d029
+v61672d20ae5c18f0aeed0117a2
+Author: Giri prasad <ainugiri@gmail.com>
+Date:   Wed Aug 17 15:34:39 2022 +0530
+
+    for CR1 initial commit
+
+pongi@LAPTOP-4PEOJNJL MINGW64 /e/Practice GIT (master)
+$ git revert HEAD
 
     for CR1 initial commit
 
