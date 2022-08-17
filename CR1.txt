@@ -30,3 +30,8 @@ pongi@LAPTOP-4PEOJNJL MINGW64 /e/Practice GIT (master)
 $ git revert HEAD
 git blame command
 git pull command 
+
+
+GIRI MADE CHAGNES ON CR1 FROM HIS LOCAL REPO FOR 
+CHANGE REQ1
+METHOD.
